@@ -1,5 +1,4 @@
 ## There are two main functions here, one returns a matrix and the other returns its inverse
-## functions do
 
 ## makeCacheMatrix first creates a matrix and asssigns it to x
 
